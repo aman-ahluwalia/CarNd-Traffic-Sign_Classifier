@@ -83,10 +83,10 @@ To add more data to the the data set, I used the rotation, shear and translation
 Here is an example of an original image and an augmented image:
 
 [original image](https://github.com/aman-ahluwalia/CarND-Traffic-Sign-Classifier/blob/master/report_images/before.jpg)
-<div><img src="report_images/before.jpg" width="480" alt="original image" /></div>
+<div><img src="report_images/before.jpg" alt="original image" /></div>
 
 [augmented image](https://github.com/aman-ahluwalia/CarND-Traffic-Sign-Classifier/blob/master/report_images/after_scaling.jpg)
-<div><img src="report_images/after_scaling.jpg" width="480" alt="augmented image" /></div>
+<div><img src="report_images/after_scaling.jpg" alt="augmented image" /></div>
 
 
 But i did not use the the augmented data set, as it didn't helped in increasing the accuracy to a great extent.
@@ -145,15 +145,15 @@ When checked, the accuracy on validation set of 2-stage ConvNet was approx 4% gr
 Here are five German traffic signs that I found on the web:
 
 [narrow on left](https://github.com/aman-ahluwalia/CarND-Traffic-Sign-Classifier/blob/master/new_test_images/narrows_on_left.jpg)
-<div><img src="new_test_images/narrows_on_left.jpg" width="480" alt="narrow on left Image" /></div>
+<div><img src="new_test_images/narrows_on_left.jpg" alt="narrow on left Image" /></div>
 [wild animal crossing](https://github.com/aman-ahluwalia/CarND-Traffic-Sign-Classifier/blob/master/new_test_images/wild_animals_cross.jpg)
-<div><img src="new_test_images/wild_animals_cross.jpg" width="480" alt="wild animal crossing Image" /></div>
+<div><img src="new_test_images/wild_animals_cross.jpg" alt="wild animal crossing Image" /></div>
 [General Caution](https://github.com/aman-ahluwalia/CarND-Traffic-Sign-Classifier/blob/master/new_test_images/general_caution.jpg)
-<div><img src="new_test_images/general_caution.jpg" width="480" alt="General Caution Image" /></div>
+<div><img src="new_test_images/general_caution.jpg"  alt="General Caution Image" /></div>
 [slippery road](https://github.com/aman-ahluwalia/CarND-Traffic-Sign-Classifier/blob/master/new_test_images/slippery_road.jpg)
-<div><img src="new_test_images/slippery_road.jpg" width="480" alt="slippery road Image" /></div>
+<div><img src="new_test_images/slippery_road.jpg" alt="slippery road Image" /></div>
 [traffic signals](https://github.com/aman-ahluwalia/CarND-Traffic-Sign-Classifier/blob/master/new_test_images/traffic_signals.jpg)
-<div><img src="new_test_images/traffic_signals.jpg" width="480" alt="traffic signals Image" /></div>
+<div><img src="new_test_images/traffic_signals.jpg" alt="traffic signals Image" /></div>
 
 The first image might be difficult to classify because it is confusing on both sides, i mean it can be narrow on the left as well as right. Though there is also a german sign image where both sides it is narrow, but it is not there on the training set so can't assign a label to it. Definitely that our model won't be able to predict.
 
