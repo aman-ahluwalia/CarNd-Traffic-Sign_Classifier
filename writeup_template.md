@@ -146,12 +146,16 @@ Here are five German traffic signs that I found on the web:
 
 [narrow on left](https://github.com/aman-ahluwalia/CarND-Traffic-Sign-Classifier/blob/master/new_test_images/narrows_on_left.jpg)
 <div><img src="new_test_images/narrows_on_left.jpg" alt="narrow on left Image" /></div>
+
 [wild animal crossing](https://github.com/aman-ahluwalia/CarND-Traffic-Sign-Classifier/blob/master/new_test_images/wild_animals_cross.jpg)
 <div><img src="new_test_images/wild_animals_cross.jpg" alt="wild animal crossing Image" /></div>
+
 [General Caution](https://github.com/aman-ahluwalia/CarND-Traffic-Sign-Classifier/blob/master/new_test_images/general_caution.jpg)
 <div><img src="new_test_images/general_caution.jpg"  alt="General Caution Image" /></div>
+
 [slippery road](https://github.com/aman-ahluwalia/CarND-Traffic-Sign-Classifier/blob/master/new_test_images/slippery_road.jpg)
 <div><img src="new_test_images/slippery_road.jpg" alt="slippery road Image" /></div>
+
 [traffic signals](https://github.com/aman-ahluwalia/CarND-Traffic-Sign-Classifier/blob/master/new_test_images/traffic_signals.jpg)
 <div><img src="new_test_images/traffic_signals.jpg" alt="traffic signals Image" /></div>
 
